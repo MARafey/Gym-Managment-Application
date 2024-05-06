@@ -1,0 +1,10 @@
+/* styles.css */
+
+.client-list-view {
+    -fx-control-inner-background: #f4f4f4; /* Set background color */
+    -fx-padding: 10px; /* Add padding around items */
+    -fx-font-size: 14px; /* Set font size */
+    -fx-border-color: #ccc; /* Add border color */
+    -fx-border-width: 1px; /* Add border width */
+    -fx-border-radius: 5px; /* Add border radius */
+}
